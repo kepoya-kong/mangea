@@ -10,6 +10,7 @@
 <link rel="apple-touch-icon" href="https://i.ibb.co/GQY4dgSk/icon-slot777.webp">
 <link rel="canonical" href="https://kepk.umku.ac.id/daftar_pengajuan/">
 <link rel="amphtml" href="https://kepk-umku.pages.dev/" />
+<meta name="google-site-verification" content="PzcHmFH9Neq03VuKLt4m2lxqfLyCtVjw0G_XeELXTW4" />
 <link as='image' href='https://i.ibb.co/RTGsHKCS/slot777-slot-deposit-1000.webp' rel='preload'>
 <link crossorigin href='https://fonts.googleapis.com' rel='preconnect'>
 <link crossorigin href='https://ajax.googleapis.com' rel='preconnect'>
